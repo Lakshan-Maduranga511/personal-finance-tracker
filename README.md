@@ -241,12 +241,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **M.L.M. Lakshan Perera**
-- Student Number: 2550008
-- Module: 6CS002 - Advanced Software Engineering Topics
 
 ## 🙏 Acknowledgments
 
-- University of Wolverhampton - Advanced Software Engineering Topics Course
 - NetBeans Community
 - Java Community for extensive documentation and support
 
